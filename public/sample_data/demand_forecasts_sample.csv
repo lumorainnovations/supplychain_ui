@@ -1,0 +1,6 @@
+Product,Period,Predicted,Actual,Confidence,Trend,Method,Last Updated
+Product A,2024-02,450,,85,up,Linear Regression,2024-01-20
+Product B,2024-02,320,340,78,stable,Moving Average,2024-01-20
+Product C,2024-02,280,,92,down,Exponential Smoothing,2024-01-20
+Product D,2024-02,380,,88,up,ARIMA,2024-01-20
+Product E,2024-02,420,,82,stable,Neural Network,2024-01-20

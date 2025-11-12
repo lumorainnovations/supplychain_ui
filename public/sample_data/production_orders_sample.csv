@@ -1,0 +1,9 @@
+ID,Product,Quantity,Start Date,End Date,Status,Priority,Assigned To,Progress,Notes
+PO-001,"Industrial Pump",50,2024-01-20,2024-01-25,in-progress,high,"Production Team A",65,"On schedule, quality checks passed"
+PO-002,"Control Panel",25,2024-01-22,2024-01-28,planned,medium,"Production Team B",0,"Waiting for materials"
+PO-003,"Motor Assembly",100,2024-01-18,2024-01-24,delayed,urgent,"Production Team C",30,"Delayed due to supplier issues"
+PO-004,"Hydraulic System",15,2024-01-25,2024-02-01,planned,high,"Production Team A",0,"Ready to start"
+PO-005,"Valve Assembly",75,2024-01-15,2024-01-22,completed,medium,"Production Team B",100,"Completed ahead of schedule"
+PO-006,"Gear Box",40,2024-01-23,2024-01-30,planned,low,"Assembly Team 1",0,"Low priority order"
+PO-007,"Electrical Panel",30,2024-01-19,2024-01-26,in-progress,high,"Assembly Team 2",45,"Progressing well"
+PO-008,"Bearing Assembly",200,2024-01-21,2024-01-28,planned,medium,"Machining Team",0,"Waiting for raw materials"

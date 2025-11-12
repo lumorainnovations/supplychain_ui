@@ -1,0 +1,6 @@
+ID,Name,Contact,Email,Phone,Address,Rating,Status,Payment Terms
+SUP-001,"MetalCorp Inc.","Robert Wilson",robert@metalcorp.com,+1-555-0101,"123 Industrial Ave, Detroit, MI",4.5,active,"Net 30"
+SUP-002,"PowerTech Ltd.","Lisa Chen",lisa@powertech.com,+1-555-0102,"456 Tech Blvd, San Jose, CA",4.8,active,"Net 45"
+SUP-003,"BearingCorp","David Brown",david@bearingcorp.com,+1-555-0103,"789 Manufacturing St, Chicago, IL",4.2,active,"Net 30"
+SUP-004,"HydroTech Inc.","Sarah Johnson",sarah@hydrotech.com,+1-555-0104,"321 Hydraulic Way, Houston, TX",4.6,active,"Net 60"
+SUP-005,"ElectroSys Ltd.","Michael Davis",michael@electrosys.com,+1-555-0105,"654 Electronics Blvd, Austin, TX",4.3,active,"Net 30"

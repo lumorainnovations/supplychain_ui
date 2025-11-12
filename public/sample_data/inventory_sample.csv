@@ -1,0 +1,6 @@
+ID,Name,SKU,Category,Current Stock,Min Stock,Max Stock,Unit,Last Restocked,Supplier,Cost,Location,Description
+1,"Steel Sheet 1mm",STL-001,"Raw Materials",150,50,300,sheets,2024-01-15,"MetalCorp Inc.",25.50,"Warehouse A","High-grade steel sheets for manufacturing"
+2,"Electric Motor 5HP",MTR-005,Components,12,20,50,units,2024-01-10,"PowerTech Ltd.",450.00,"Warehouse B","5HP electric motor for industrial applications"
+3,"Industrial Bearing",BRG-101,Components,75,30,100,units,2024-01-18,BearingCorp,15.75,"Warehouse A","Heavy-duty industrial bearings"
+4,"Hydraulic Pump",HYD-201,"Finished Goods",25,10,50,units,2024-01-12,"HydroTech Inc.",850.00,"Warehouse C","High-pressure hydraulic pump"
+5,"Control Panel",CTL-301,Components,40,15,80,units,2024-01-14,"ElectroSys Ltd.",320.00,"Warehouse B","Digital control panel with LCD display"

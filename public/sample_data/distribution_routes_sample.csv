@@ -1,0 +1,4 @@
+ID,Name,Origin,Destinations,Distance,Estimated Time,Cost,Capacity,Status,Vehicle,Driver,Priority,Scheduled Date,Delivery Type,Customer Type,Notes
+RT-001,"Northeast Express Route","Main Distribution Center - Boston","New York NY; Philadelphia PA; Hartford CT",850,"2 days",1450.00,5000,active,"Truck-001","John Smith",high,2024-01-22,express,wholesale,"High-priority route for major wholesale customers"
+RT-002,"West Coast Standard Route","Main Distribution Center - Los Angeles","San Francisco CA; Sacramento CA; San Jose CA",1200,"3 days",1850.00,7500,in-transit,"Truck-002","Mike Johnson",medium,2024-01-20,standard,retail,"Regular retail delivery route"
+RT-003,"Southeast Overnight Route","Regional Hub - Atlanta","Miami FL; Tampa FL; Jacksonville FL",650,"1 day",2200.00,3000,planned,"Truck-003","Sarah Williams",urgent,2024-01-23,overnight,distributor,"Urgent overnight delivery for distributor network"

@@ -1,0 +1,5 @@
+ID,Name,Email,Phone,Role,Department,Status,Job Title,Hire Date,Permissions
+USR-001,"John Smith",john.smith@company.com,+1-555-0201,operator,Manufacturing,active,"Production Operator",2023-03-15,"inventory.read;orders.read"
+USR-002,"Jane Doe",jane.doe@company.com,+1-555-0202,manager,Operations,active,"Operations Manager",2022-08-10,"inventory.read;inventory.write;orders.read;orders.write"
+USR-003,"Bob Johnson",bob.johnson@company.com,+1-555-0203,viewer,Finance,active,"Financial Analyst",2023-01-20,"reports.read"
+USR-004,"Alice Brown",alice.brown@company.com,+1-555-0204,operator,"Quality Control",active,"QC Inspector",2023-06-05,"inventory.read;orders.read"
